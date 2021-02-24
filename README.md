@@ -1,8 +1,8 @@
-Hi dear , I'm Douglas Vinicius
+<h1>Hi dear , I'm Douglas Vinicius</h1>
 
 
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript and SQL database
+<p>- 🌱 I’m currently learning HTML5, CSS3, JavaScript and SQL database</p>
  
-- 💬 Ask me about HTML5, CSS3, JavaScript
+<p>- 💬 Ask me about HTML5, CSS3, JavaScript</p>
 
-- 📫 How to reach me: https://www.linkedin.com/in/douglas-vin%C3%ADcius-b38a36181/
+<p>- 📫 How to reach me: https://www.linkedin.com/in/douglas-vin%C3%ADcius-b38a36181/ </p>
